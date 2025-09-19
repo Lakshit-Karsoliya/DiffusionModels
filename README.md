@@ -7,7 +7,7 @@ It was mostly a fun side project to see how well a diffusion approach can genera
 
 ## 📊 Results
 
-Generated samples after training:
+Generated samples after training for 100 epochs:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lakshit-Karsoliya/DiffusionModels/refs/heads/main/assets/DiffusionModelMNISTresults.gif" alt="Generated MNIST Samples" width="300"/>
